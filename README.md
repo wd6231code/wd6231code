@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wd6231code
+- 🇨🇳 I’m from china
+- 👩‍💻 I’m a Humorous programmer
+- 💞️ I like GitHub,Microsoft and Linux
+- 📫 My email URL is [wd6231@outlook.com](mailto:wd6231@outlook.com)
